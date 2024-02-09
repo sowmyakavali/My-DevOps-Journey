@@ -3,7 +3,6 @@
 
 from flask import Flask, redirect, url_for, render_template, request  
 
-from tabulate import tabulate
 # Here to enable render_template you have to follow folder structure.
 # You should create 
 #               template
